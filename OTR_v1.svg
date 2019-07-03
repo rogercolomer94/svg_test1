@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="800px"
+   height="600px"
+   viewBox="0 0 800 600"
    version="1.1"
-   id="svg8"
+   id="SVGRoot"
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
-   sodipodi:docname="dibuix_1.svg">
+   sodipodi:docname="OTR_v1.svg">
   <defs
-     id="defs2" />
+     id="defs130" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,19 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-4.7033407"
-     inkscape:cy="792.37457"
-     inkscape:document-units="mm"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="321.3248"
+     inkscape:cy="331.13869"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     inkscape:window-x="-32000"
-     inkscape:window-y="-32000"
-     inkscape:window-maximized="0" />
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata5">
+     id="metadata133">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -54,9 +54,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="33.006813"
-       x="0.91051966"
-       id="image3813"
+       y="74.394989"
+       x="3.7374878"
+       id="image151"
        xlink:href="data:image/jpeg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABABLAAAAAEAAQEsAAAAAQAB/+FSpmh0dHA6
 Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBD
 ZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIg
@@ -26434,39 +26434,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAACUH6r5Iz9XMkJ+r2D//2Q==
 "
        preserveAspectRatio="none"
-       height="112"
-       width="209" />
-    <a
-       id="a3854">
-      <rect
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:0,&quot;min&quot;:0,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#FF0000/#008000&quot;,&quot;tag&quot;:&quot;TAG1&quot;}]}"
-         y="76.569458"
-         x="12.628485"
-         height="16.503887"
-         width="5.7462931"
-         id="rect3816"
-         style="fill:#008080;stroke-width:0.26613516" />
-    </a>
+       height="428.28168"
+       width="797.21252" />
     <rect
-       style="fill:#ffffff;stroke-width:0.26458332"
-       id="rect3816-4"
-       width="5.6794763"
-       height="16.503887"
-       x="28.798292"
-       y="76.536049" />
-    <rect
-       style="fill:#ffffff;stroke-width:0.26458332"
-       id="rect3816-4-8"
-       width="5.6794763"
-       height="16.503887"
-       x="44.801056"
-       y="76.569466" />
-    <rect
-       style="fill:#ffffff;stroke-width:0.26458332"
-       id="rect3816-4-84"
-       width="5.6794763"
-       height="16.503887"
-       x="60.93745"
-       y="76.569458" />
+       style="fill:#008080;stroke-width:1.0980016"
+       id="rect154"
+       width="21.777344"
+       height="62.988281"
+       x="48.339844"
+       y="240.42969"
+       inkscape:label="{&quot;@ttr&quot;:&quot;bar&quot;,&quot;max&quot;:0,&quot;min&quot;:0,&quot;tag&quot;:&quot;TAG1&quot;}" />
   </g>
 </svg>
