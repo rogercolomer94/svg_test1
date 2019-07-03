@@ -70,5 +70,17 @@
        x="48.339844"
        y="240.42969"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:0,&quot;min&quot;:0,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;20&quot;,&quot;param&quot;:&quot;#0000FF&quot;,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;data&quot;:&quot;50&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG1&quot;}]}" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4670"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%f=TAG7&quot;]}"
+       transform="translate(-11.600971,141.97378)"><flowRegion
+         id="flowRegion4672"><rect
+           id="rect4674"
+           width="199.42621"
+           height="110.48544"
+           x="127.05825"
+           y="108.89224" /></flowRegion><flowPara
+         id="flowPara4676">%f</flowPara></flowRoot>  </g>
 </svg>
