@@ -6623,7 +6623,7 @@
        id="path20743-0"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;black|RED&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;black|#FFFF00&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;black|#00FF00&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;black|#00FFFF&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;black|#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG27&quot;}]}"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;red|black&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;yellow|black&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;green|black&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;blue|black&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;grey|black&quot;,&quot;tag&quot;:&quot;TAG27&quot;}]}"
        inkscape:connector-curvature="0"
        id="path7265-0-1"
        d="M 127.84029,37.773399 117.8569,20.765592 107.29639,37.752187 Z"
