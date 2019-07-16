@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
-   sodipodi:docname="otr5.svg">
+   sodipodi:docname="otr6.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -6523,10 +6523,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="1042.3574"
-     inkscape:cy="1006.301"
+     inkscape:cx="827.67989"
+     inkscape:cy="1017.1084"
      inkscape:document-units="px"
-     inkscape:current-layer="g2509-7-8"
+     inkscape:current-layer="g2509-7"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
