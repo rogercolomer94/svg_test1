@@ -6522,11 +6522,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="411.82266"
-     inkscape:cy="1014.7324"
+     inkscape:zoom="4"
+     inkscape:cx="124.60062"
+     inkscape:cy="1013.7254"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g2509"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -6574,8 +6574,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,447.63782)"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.70438194px;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.72536528"
@@ -6596,7 +6595,7 @@
          d="M 107.87373,3.7479422 117.85712,20.755759 128.41763,3.7691611 Z"
          id="path7265-8"
          inkscape:connector-curvature="0"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TATG27&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;#00FFFF&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG27&quot;}]}" />
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAT27&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;#00FFFF&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG27&quot;}]}" />
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;#00FFFF&quot;,&quot;tag&quot;:&quot;TAG27&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG27&quot;}]}"
          y="5.5196104"
@@ -6734,7 +6733,7 @@
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG18&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#008000&quot;,&quot;tag&quot;:&quot;TAG18&quot;}]}" />
     </g>
     <path
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG29&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG29&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TATG29&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;#00FFFF&quot;,&quot;tag&quot;:&quot;TAG29&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG29&quot;}]}"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG29&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG29&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG29&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;#00FFFF&quot;,&quot;tag&quot;:&quot;TAG29&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG29&quot;}]}"
        inkscape:connector-curvature="0"
        id="path7265-8-07"
        d="M 214.3295,3.7480687 224.31289,20.755886 234.8734,3.7692876 Z"
@@ -6813,7 +6812,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="bordes"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g2389"
        style="display:inline;opacity:1;fill:none"
