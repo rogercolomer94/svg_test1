@@ -6568,9 +6568,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="581.1295"
-     inkscape:cy="926.43248"
+     inkscape:zoom="8"
+     inkscape:cx="535.9383"
+     inkscape:cy="941.84667"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7211,14 +7211,14 @@
        height="30.652748"
        x="481.8855"
        y="125.80263"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG33&quot;},{&quot;data&quot;:&quot;99.5|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG33&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG33&quot;},{&quot;data&quot;:&quot;99.5|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG33&quot;}]}" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1.14924419px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 519.04442,141.14467 H 491.54224"
        id="path20743-0-28-6"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG33&quot;},{&quot;data&quot;:&quot;99.5|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG33&quot;}]}"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG33&quot;},{&quot;data&quot;:&quot;99.5|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG33&quot;}]}"
        inkscape:connector-curvature="0"
        id="path7265-0-1-26-4"
        d="m 528.53542,158.05641 -9.98339,-17.0078 -10.56051,16.98659 z"
