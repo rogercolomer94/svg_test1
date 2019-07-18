@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
-   sodipodi:docname="otr34.svg">
+   sodipodi:docname="otr35.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -6568,11 +6568,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="823.25877"
-     inkscape:cy="1383.4254"
+     inkscape:zoom="0.5"
+     inkscape:cx="390.39899"
+     inkscape:cy="768.71436"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g7325"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -6589,7 +6589,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6597,7 +6597,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline;opacity:0.98000004">
+     style="display:inline;opacity:0.98000004"
+     sodipodi:insensitive="true">
     <image
        style="display:inline"
        width="1414.3667"
@@ -6691,6 +6692,14 @@
        height="127.79494"
        x="518.66638"
        y="394.98547" />
+    <rect
+       transform="translate(0,447.63782)"
+       style="display:inline;opacity:1;fill:#b6b2b2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2248"
+       width="52.125"
+       height="49"
+       x="484.625"
+       y="109.36218" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -7192,13 +7201,6 @@
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG20&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG20&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG20&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;#00FFFF&quot;,&quot;tag&quot;:&quot;TAG20&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG20&quot;}]}" />
     </g>
     <rect
-       style="opacity:1;fill:#b6b2b2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2248"
-       width="52.125"
-       height="49"
-       x="484.625"
-       y="109.36218" />
-    <rect
        style="opacity:1;fill:#b6b2b2;fill-opacity:1;stroke:none;stroke-width:1.01121533;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2256"
        width="34"
@@ -7549,15 +7551,15 @@
     <g
        style="display:inline"
        id="g7325"
-       transform="translate(12.177408,-408.20873)">
+       transform="translate(12.289543,-407.98938)">
       <path
          style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1.12527788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 496.37127,532.24757 9.98339,17.00782 10.56051,-16.9866 z"
          id="path7265-8-7-6"
          inkscape:connector-curvature="0"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|10&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG33&quot;},{&quot;data&quot;:&quot;90|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG33&quot;}]}" />
+         inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|10&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG3&quot;},{&quot;data&quot;:&quot;90|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG3&quot;},{&quot;data&quot;:&quot;&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;TAG3&quot;}]}" />
       <rect
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|10&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG33&quot;},{&quot;data&quot;:&quot;90|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG33&quot;}]}"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|10&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG3&quot;},{&quot;data&quot;:&quot;90|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG3&quot;}]}"
          y="534.01923"
          x="469.6879"
          height="30.652748"
@@ -7569,7 +7571,7 @@
          d="m 516.33783,566.27303 -9.98339,-17.0078 -10.56051,16.98659 z"
          id="path7265-0-1-26-4"
          inkscape:connector-curvature="0"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG33&quot;},{&quot;data&quot;:&quot;90|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG33&quot;}]}" />
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG3&quot;},{&quot;data&quot;:&quot;90|100.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG3&quot;}]}" />
       <path
          inkscape:connector-curvature="0"
          id="path20743-0-33-9-3-0-5"
@@ -7589,6 +7591,15 @@
          y="-272.58813"
          id="tspan5710-8-2-39-4-3-2-0"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.79661751px;line-height:1.25;font-family:arial;-inkscape-font-specification:'arial Bold';fill:#000000;stroke:none;stroke-width:1.58983099">%</tspan></text>
+    <ellipse
+       transform="rotate(90)"
+       ry="22.306864"
+       rx="22.486322"
+       cy="-987.91534"
+       cx="-385.45663"
+       id="path6546-2-8-3"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.31170046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-0.5|0.5&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;TAG16&quot;},{&quot;data&quot;:&quot;0.5|1.5&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;TAG16&quot;},{&quot;data&quot;:&quot;1.5|2.5&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;TAG16&quot;},{&quot;data&quot;:&quot;2.5|3.5&quot;,&quot;param&quot;:&quot;#00FFFF&quot;,&quot;tag&quot;:&quot;TAG16&quot;},{&quot;data&quot;:&quot;3.5|4.5&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;TAG16&quot;}]}" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8411,7 +8422,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7010"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:bold;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'sans-serif Bold';font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion7012"><rect
            id="rect7014"
            width="172"
@@ -8594,7 +8605,7 @@
        inkscape:label=""
        inkscape:connector-curvature="0"
        id="path7265-8-68-0-2-3-0"
-       d="m 508.54177,571.66026 9.98339,17.00783 10.56051,-16.98661 z"
+       d="m 508.67068,571.88682 9.98339,17.00783 10.56051,-16.98661 z"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.12527788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.06236041;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -8610,5 +8621,30 @@
        id="path7265-0-1-1-7-6-0-6"
        d="m 528.68511,605.68573 -9.98339,-17.0078 -10.56051,16.98659 z"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.12527788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       id="g6592-6"
+       transform="matrix(0,0.69072252,-0.676176,0,1425.798,-416.96346)">
+      <ellipse
+         transform="translate(0,447.63782)"
+         ry="33.114273"
+         rx="32.580418"
+         cy="200.12173"
+         cx="693.67175"
+         id="path6546-2-8"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.92372119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6548-4-7"
+         d="m 669.99371,177.49225 55.5625,14.625"
+         style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(0,447.63782)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6548-5-6-8"
+         d="m 669.64996,223.30475 55.5625,-14.625"
+         style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(0,447.63782)" />
+    </g>
   </g>
 </svg>
